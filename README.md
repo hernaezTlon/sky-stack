@@ -1,6 +1,6 @@
 # Sky Stack
 
-A one-tap tower-stacking arcade game built for YouTube Playables. Tap, click or press Space to drop the block, line it up perfectly, and build the tallest tower in the sky across six worlds.
+Build your own skyscraper all the way to the stars! A one-tap tower-stacking arcade game built for YouTube Playables.
 
 - Play: https://hernaeztlon.github.io/sky-stack/ (add `?lang=es` for Spanish)
 - Vanilla JS + Canvas 2D, procedural art and audio, no dependencies.
